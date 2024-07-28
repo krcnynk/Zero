@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Programming Paradigms.md",
+                "file": "Software/Python/Python Under the Hood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "821fc968d33d1e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Memory Allocation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Programming Paradigms.md",
+                "file": "Software/Memory Allocation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Programming Paradigms.md",
+                "file": "Software/Memory Allocation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Programming Paradigms.md"
+                "file": "Software/Memory Allocation.md"
               }
             }
           }
@@ -147,19 +160,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fa672e7a6012b7d",
+  "active": "821fc968d33d1e10",
   "lastOpenFiles": [
-    "Software/Computer Science.md",
     "Software/Programming Paradigms.md",
+    "Software/Computer Science.md",
+    "Software/Computer Architecture.md",
+    "Software/Memory Allocation.md",
+    "Software/Fixed Point Arithmetic.md",
+    "Software/Floating Point Arithmetic.md",
+    "Software/Python/Python Under the Hood.md",
+    "Software/Python/C Under the Hood.md",
+    "Software/Python/Python.md",
+    "floating_point_window.svg",
+    "z_fluff/round-26.webp",
+    "Software/Object-oriented Programming.md",
+    "Software/C++/C++.md",
     "z_fluff",
     "z_fluff/obamna.gif",
-    "Software/Floating Point Arithmetic.md",
-    "Software/Object-oriented Programming.md",
     "Software/Cloud/Cloud Systems.md",
-    "Software/C++/C++.md",
     "z_temporary",
     "Software/C++/XXX.md",
-    "Software/Python/Python.md",
     "Software/Python/Classes and Objects.md",
     "Software/Python/Libraries/Tensorflow.md",
     "Software/Python/Mutability vs Immutability.md",
@@ -177,11 +197,6 @@
     "Programming Languages/C++/Encapsulation.md",
     "Programming Languages/C++/Inheritance.md",
     "Programming Languages/C++/Constructors and Destructors.md",
-    "Theory/ML/Gradient Descent.md",
-    "1.md",
-    "Programming Languages/C++/Python.md",
-    "Programming Languages/Object-oriented programming.md",
-    "Object-Oriented Programming (OOP).md",
     "Theory/Statistics/Probability Cheatsheet.pdf",
     "Rough Ideas/Statistics/Probability.pdf",
     "Rough Ideas/Statistics/Untitled.canvas",
