@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14b084898ab0bdd2",
+        "id": "338809287025c7ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4265531eb592ac",
+            "id": "919fa56166d764b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Object-oriented Programming.md",
+                "file": "Software/Programming Paradigms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Object-oriented Programming.md",
+                "file": "Software/Programming Paradigms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Object-oriented Programming.md",
+                "file": "Software/Programming Paradigms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Object-oriented Programming.md"
+                "file": "Software/Programming Paradigms.md"
               }
             }
           }
@@ -147,14 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b4265531eb592ac",
+  "active": "3fa672e7a6012b7d",
   "lastOpenFiles": [
+    "Software/Computer Science.md",
+    "Software/Programming Paradigms.md",
+    "z_fluff",
+    "z_fluff/obamna.gif",
+    "Software/Floating Point Arithmetic.md",
+    "Software/Object-oriented Programming.md",
+    "Software/Cloud/Cloud Systems.md",
+    "Software/C++/C++.md",
+    "z_temporary",
+    "Software/C++/XXX.md",
+    "Software/Python/Python.md",
+    "Software/Python/Classes and Objects.md",
+    "Software/Python/Libraries/Tensorflow.md",
+    "Software/Python/Mutability vs Immutability.md",
+    "Software/Python/Pass-by-object-reference.md",
+    "Software/Python/Libraries",
+    "Programming Languages/Tensorflow",
     "LICENSE",
     "README.md",
-    "Untitled",
     "local-git",
-    "Programming Languages/C++/C++.md",
-    "Programming Languages/C++/Basics of C++.md",
     "Programming Languages/C++/Abstraction.md",
     "Programming Languages/C++/Classes and Objects.md",
     "Programming Languages/C++/Temp.md",
@@ -163,31 +177,18 @@
     "Programming Languages/C++/Encapsulation.md",
     "Programming Languages/C++/Inheritance.md",
     "Programming Languages/C++/Constructors and Destructors.md",
-    "Programming Languages/Python/Python.md",
-    "Rough Ideas/ML/Gradient Descent.md",
-    "Programming Languages/Python/Pass-by-object-reference.md",
-    "Programming Languages/Python/Classes and Objects.md",
-    "Programming Languages/Object-oriented Programming.md",
+    "Theory/ML/Gradient Descent.md",
     "1.md",
     "Programming Languages/C++/Python.md",
     "Programming Languages/Object-oriented programming.md",
     "Object-Oriented Programming (OOP).md",
-    "Rough Ideas/ML/Code Example.md",
-    "Rough Ideas/ML/Feature selection.md",
-    "Rough Ideas/ML/Curse of Dimensionality.md",
-    "Programming Languages/C++/Syntax and Structure.md",
-    "Overfitting Solutions.md",
-    "Rough Ideas/Statistics/Probability Cheatsheet.pdf",
+    "Theory/Statistics/Probability Cheatsheet.pdf",
     "Rough Ideas/Statistics/Probability.pdf",
     "Rough Ideas/Statistics/Untitled.canvas",
     "combargs.pdf",
-    "Rough Ideas/imageMSE.png",
-    "Rough Ideas/Cloud",
-    "Programming Languages/C++",
-    "Rough Ideas/Statistics",
-    "Rough Ideas/ML",
+    "z_fluff/imageMSE.png",
+    "Software/Cloud",
     "Untitled.canvas",
-    "Finance",
     "0545fd392b53b64e72ce258c5c79c717788e9e10.svg"
   ]
 }

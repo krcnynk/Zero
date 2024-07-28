@@ -85,5 +85,5 @@ tab: Practical Projects
 
 [[Mutability vs Immutability]]
 [[Pass-by-object-reference]]
-[[Object-oriented Programming]]
-[[Programming Languages/Python/Classes and Objects|Classes and Objects]]
+[[Classes and Objects|Classes and Objects]]
+[[Libraries/Tensorflow]]

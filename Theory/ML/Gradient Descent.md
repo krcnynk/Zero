@@ -4,7 +4,7 @@ assume a line fit in 2D
 using the cost function 
 $$\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
 $$\hat{y}_i = m\hat{x}_i + b$$
-![[imageMSE.png]]
+![[../../z_fluff/imageMSE.png]]
 We can now find $$\frac{\partial f}{\partial m},\frac{\partial f}{\partial b}$$
 and take small steps towards a local minima (a is the learning rate)
 $$m=m-\alpha \frac{\partial f}{\partial m}$$
