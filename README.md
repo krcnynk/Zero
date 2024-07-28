@@ -1,0 +1,2 @@
+# Zero
+ Obsidian Vault

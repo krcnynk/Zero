@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "2fd600fd144fb67d",
+    "type": "split",
+    "children": [
+      {
+        "id": "14b084898ab0bdd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4265531eb592ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Object-oriented Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37cff75cc324f518",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fa1921c07f751e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa672e7a6012b7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee76e7367b88dc6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54b60e9b5243c41a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "799435db41795978",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a4bb31bb1148629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7fa001f47c67d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming Languages/Object-oriented Programming.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b178ed720dc189f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming Languages/Object-oriented Programming.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a9f32affb43b16a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de9f43055f40a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming Languages/Object-oriented Programming.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3fa672e7a6012b7d",
+  "lastOpenFiles": [
+    "Untitled",
+    "local-git",
+    "Programming Languages/C++/C++.md",
+    "Programming Languages/C++/Basics of C++.md",
+    "Programming Languages/C++/Abstraction.md",
+    "Programming Languages/C++/Classes and Objects.md",
+    "Programming Languages/C++/Temp.md",
+    "Programming Languages/C++/Polymorphism.md",
+    "Programming Languages/C++/Operator Overloading.md",
+    "Programming Languages/C++/Encapsulation.md",
+    "Programming Languages/C++/Inheritance.md",
+    "Programming Languages/C++/Constructors and Destructors.md",
+    "Programming Languages/Python/Python.md",
+    "Rough Ideas/ML/Gradient Descent.md",
+    "Programming Languages/Python/Pass-by-object-reference.md",
+    "Programming Languages/Python/Classes and Objects.md",
+    "Programming Languages/Object-oriented Programming.md",
+    "1.md",
+    "Programming Languages/C++/Python.md",
+    "Programming Languages/Object-oriented programming.md",
+    "Object-Oriented Programming (OOP).md",
+    "Rough Ideas/ML/Code Example.md",
+    "Rough Ideas/ML/Feature selection.md",
+    "Rough Ideas/ML/Curse of Dimensionality.md",
+    "Programming Languages/C++/Syntax and Structure.md",
+    "Overfitting Solutions.md",
+    "Rough Ideas/ML/Bias-Variance Tradeoff.md",
+    "Rough Ideas/Statistics/Probability Cheatsheet.pdf",
+    "Rough Ideas/Statistics/Probability.pdf",
+    "Rough Ideas/Statistics/Untitled.canvas",
+    "combargs.pdf",
+    "Rough Ideas/imageMSE.png",
+    "Rough Ideas/Cloud",
+    "Programming Languages/C++",
+    "Rough Ideas/Statistics",
+    "Rough Ideas/ML",
+    "Untitled.canvas",
+    "Finance",
+    "0545fd392b53b64e72ce258c5c79c717788e9e10.svg",
+    "Programming Languages/Python"
+  ]
+}
