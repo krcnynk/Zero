@@ -149,6 +149,8 @@
   },
   "active": "3fa672e7a6012b7d",
   "lastOpenFiles": [
+    "LICENSE",
+    "README.md",
     "Untitled",
     "local-git",
     "Programming Languages/C++/C++.md",
@@ -175,7 +177,6 @@
     "Rough Ideas/ML/Curse of Dimensionality.md",
     "Programming Languages/C++/Syntax and Structure.md",
     "Overfitting Solutions.md",
-    "Rough Ideas/ML/Bias-Variance Tradeoff.md",
     "Rough Ideas/Statistics/Probability Cheatsheet.pdf",
     "Rough Ideas/Statistics/Probability.pdf",
     "Rough Ideas/Statistics/Untitled.canvas",
@@ -187,7 +188,6 @@
     "Rough Ideas/ML",
     "Untitled.canvas",
     "Finance",
-    "0545fd392b53b64e72ce258c5c79c717788e9e10.svg",
-    "Programming Languages/Python"
+    "0545fd392b53b64e72ce258c5c79c717788e9e10.svg"
   ]
 }
