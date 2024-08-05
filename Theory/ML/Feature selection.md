@@ -1,4 +1,11 @@
-# Filter methods
+
+Status: **Editing**
+
+Tags: [[Machine Learning]]
+
+# Feature selection
+
+### Filter methods
 - **Correlation coefficient**: Assume Job performance= F(yoe, salary, age), we can find the correlation vector with target variable and discard/keep some subset of these features
 ```python
 import pandas as pd 
@@ -75,7 +82,7 @@ else:
 
 ```
 
-**Two way ANOVA**: has two independent variable so add "smoker"
+Two way ANOVA: has two independent variable so add "smoker"
 
 - **Mutual Information**: Reduction in uncertainty about one variable given knowledge of other variable
 ```python
@@ -96,6 +103,10 @@ mi_series = pd.Series(mi, index=X.columns)
 print(mi_series)
 ```
 
-# Wrapper methods
+### Wrapper methods
 
-# Embedded methods
+### Embedded methods
+
+
+
+# References

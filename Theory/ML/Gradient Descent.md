@@ -1,3 +1,9 @@
+Status: **Editing**
+
+Tags: [[Machine Learning]]
+
+# Gradient Descent
+
 It is a mathematical optimization method
 goal is to find local minima of multivariate differentiable function
 assume a line fit in 2D
@@ -17,3 +23,7 @@ n observation from dataset -> update m&b -> entire dataset needs to fit in memor
 update m&b at each observation
 ## Minibatch
 n observations are split into smaller chunks -> update m&b
+
+
+
+# References

@@ -1,6 +1,0 @@
-[[C++/C++|C++]]
-[[Python/Python|Python]]
-[[Floating Point Arithmetic]]
-[[Cloud Systems]]
-[[Programming Paradigms]]
-[[Computer Architecture]]

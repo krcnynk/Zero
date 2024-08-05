@@ -1,4 +1,7 @@
-[source](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+Status: **Editing**
+
+Tags: [[Machine Learning]]
+# Bias-Variance Tradeoff
 
 Plagues supervised learning, stops algorithms from generalizing beyond their training set.
 
@@ -16,3 +19,5 @@ Plagues supervised learning, stops algorithms from generalizing beyond their tra
 	- Early stopping (pre-pruning)
 	- Data augmentation
 	- Pruning 
+# References
+[source](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)

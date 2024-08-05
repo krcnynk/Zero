@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "338809287025c7ba",
+        "id": "47777f4e3cce99ac",
         "type": "tabs",
         "children": [
           {
-            "id": "919fa56166d764b4",
+            "id": "ed18d54edb678145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Python/Python Under the Hood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "821fc968d33d1e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Memory Allocation.md",
+                "file": "Software/Languages/C++/Cmake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5
   },
   "right": {
     "id": "799435db41795978",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Memory Allocation.md",
+                "file": "Software/Languages/C++/Cmake.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Memory Allocation.md",
+                "file": "Software/Languages/C++/Cmake.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Memory Allocation.md"
+                "file": "Software/Languages/C++/Cmake.md"
               }
             }
           }
@@ -160,49 +147,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "821fc968d33d1e10",
+  "active": "ed18d54edb678145",
   "lastOpenFiles": [
-    "Software/Programming Paradigms.md",
-    "Software/Computer Science.md",
-    "Software/Computer Architecture.md",
-    "Software/Memory Allocation.md",
-    "Software/Fixed Point Arithmetic.md",
-    "Software/Floating Point Arithmetic.md",
-    "Software/Python/Python Under the Hood.md",
-    "Software/Python/C Under the Hood.md",
-    "Software/Python/Python.md",
-    "floating_point_window.svg",
+    "Software/Languages/C++/C++.md",
+    "Software/Languages/C++/Cmake.md",
+    "Software/Languages/C++/VS.md",
+    "Software/Languages/Python/Exception Handling.md",
+    "Software/Languages/Python/Decorators.md",
+    "Software/Vim.md",
+    "Software/Languages/C++/XXX.md",
+    "Theory/Computer/Computer Science/Depth-First Search.md",
+    "Theory/Computer/Computer Science/CS Unclassified.md",
+    "Theory/Computer/Computer Science/Computer Science.md",
+    "Theory/Computer/Computer Science/Computer Architecture.md",
+    "Theory/Computer/Computer Science/Algorithms.md",
+    "Software/Shell.md",
+    "Software/Software.md",
+    "z_fluff/vi-vim-cheat-sheet.gif",
+    "Theory/Computer/Computer Science/Stack.md",
+    "Theory/Computer/Computer Science/Web Content.md",
+    "Theory/Computer/Computer Science/Programming Paradigms.md",
+    "Theory/Computer/Computer Science/Programming Languages.md",
+    "Theory/Computer/Computer Science/Memory Allocation.md",
+    "Theory/Computer/Computer Science/Floating Point Arithmetic.md",
+    "Theory/Computer/Computer Science/Fixed Point Arithmetic.md",
+    "Theory/Computer/Computer Science/Breadth-First Search.md",
+    "Theory/ML/Code Example.md",
+    "Theory/ML/Gradient Descent.md",
+    "Theory/ML/Topics in ML.md",
+    "Templates",
+    "Pasted image 20240801232612.png",
     "z_fluff/round-26.webp",
-    "Software/Object-oriented Programming.md",
-    "Software/C++/C++.md",
-    "z_fluff",
+    "z_fluff/python-list-tuple-set-array-dict-1.png",
     "z_fluff/obamna.gif",
-    "Software/Cloud/Cloud Systems.md",
-    "z_temporary",
-    "Software/C++/XXX.md",
-    "Software/Python/Classes and Objects.md",
-    "Software/Python/Libraries/Tensorflow.md",
-    "Software/Python/Mutability vs Immutability.md",
-    "Software/Python/Pass-by-object-reference.md",
-    "Software/Python/Libraries",
-    "Programming Languages/Tensorflow",
-    "LICENSE",
-    "README.md",
-    "local-git",
-    "Programming Languages/C++/Abstraction.md",
-    "Programming Languages/C++/Classes and Objects.md",
-    "Programming Languages/C++/Temp.md",
-    "Programming Languages/C++/Polymorphism.md",
-    "Programming Languages/C++/Operator Overloading.md",
-    "Programming Languages/C++/Encapsulation.md",
-    "Programming Languages/C++/Inheritance.md",
-    "Programming Languages/C++/Constructors and Destructors.md",
-    "Theory/Statistics/Probability Cheatsheet.pdf",
-    "Rough Ideas/Statistics/Probability.pdf",
-    "Rough Ideas/Statistics/Untitled.canvas",
-    "combargs.pdf",
+    "z_fluff/floating_point_window.svg",
     "z_fluff/imageMSE.png",
-    "Software/Cloud",
+    "Theory/Computer",
+    "Software/Languages",
+    "Theory/Computer/Networking",
+    "Software/Docker",
+    "Ideas",
+    "Software/LeetCode",
+    "Software/Languages/C",
+    "Software/Spark",
+    "Theory/Computer/Computer Science",
+    "Rough Ideas/Statistics/Untitled.canvas",
     "Untitled.canvas",
     "0545fd392b53b64e72ce258c5c79c717788e9e10.svg"
   ]
