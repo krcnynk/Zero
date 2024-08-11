@@ -1,107 +1,123 @@
+Status: **Editing**
+
 Tags: [[Computer Science]]
-### Graph Algorithms
 
-1. **[[Breadth-First Search]] (BFS)**
-2. **[[Depth-First Search]] (DFS)**
-3. **Dijkstra’s Algorithm** (Shortest Path in Weighted Graph)
-4. **Bellman-Ford Algorithm**
-5. **Floyd-Warshall Algorithm**
-6. __A_ Search Algorithm_*
-7. **Kruskal’s Algorithm** (Minimum Spanning Tree)
-8. **Prim’s Algorithm** (Minimum Spanning Tree)
-9. **Topological Sort**
-10. **Tarjan’s Algorithm** (Strongly Connected Components)
-11. **Kosaraju’s Algorithm** (Strongly Connected Components)
+# Algorithms
 
-### Sorting Algorithms
+### 1. **Array**
 
-1. **Quick Sort**
-2. **Merge Sort**
-3. **Heap Sort**
-4. **Bubble Sort**
-5. **Insertion Sort**
-6. **Selection Sort**
-7. **Counting Sort**
-8. **Radix Sort**
-9. **Bucket Sort**
+- **Two Pointers:** Fast and slow pointers, sliding window.
+- **Sorting:** Merge sort, quicksort.
+- **Binary Search:** Searching in a sorted array.
+- **Prefix Sum:** Used for subarray problems, range queries.
 
-### Searching Algorithms
+### 2. **String**
 
-1. **Binary Search**
-2. **Linear Search**
-3. **Exponential Search**
+- **String Matching:** KMP, Rabin-Karp.
+- **Palindrome Checking:** Expand around center, dynamic programming.
+- **Trie:** Efficient information retrieval, prefix matching.
+- **String Manipulation:** Substring, reverse, anagrams.
 
-### Dynamic Programming
+### 3. **Linked List**
 
-1. **Knapsack Problem**
-2. **Longest Common Subsequence**
-3. **Longest Increasing Subsequence**
-4. **Edit Distance**
-5. **Matrix Chain Multiplication**
-6. **Fibonacci Sequence**
-7. **Coin Change Problem**
-8. **Subset Sum Problem**
+- **Singly/Doubly Linked List:** Traversal, insertion, deletion.
+- **Cycle Detection:** Floyd’s cycle detection algorithm.
+- **Reversal:** Reversing the entire list or in groups.
+- **Merge:** Merge two sorted linked lists.
 
-### Data Structures
+### 4. **Stack**
 
-1. **Arrays**
-2. **Linked Lists**
-3. **Stacks**
-4. **Queues**
-5. **Hash Tables**
-6. **Binary Trees**
-7. **Binary Search Trees (BST)**
-8. **Heaps** (Min-Heap, Max-Heap)
-9. **Graphs** (Adjacency Matrix, Adjacency List)
-10. **Tries**
-11. **Segment Trees**
-12. **Fenwick Trees (Binary Indexed Trees)**
+- **Balanced Parentheses:** Validating balanced strings.
+- **Monotonic Stack:** Used for problems involving the next greater element.
+- **Expression Evaluation:** Infix, prefix, postfix notation.
+- **Backtracking:** DFS with a stack.
 
-### String Algorithms
+### 5. **Queue/Deque**
 
-1. **Knuth-Morris-Pratt (KMP) Algorithm**
-2. **Rabin-Karp Algorithm**
-3. **Z Algorithm**
-4. **Trie-based Algorithms**
-5. **Longest Palindromic Substring**
-6. **String Matching and Parsing**
+- **Sliding Window Maximum:** Using deque to find the maximum in a sliding window.
+- **Breadth-First Search (BFS):** Level order traversal in trees/graphs.
+- **Priority Queue (Heap):** Efficient minimum/maximum element retrieval.
 
-### Geometric Algorithms
+### 6. **Hash Table**
 
-1. **Graham’s Scan** (Convex Hull)
-2. **Jarvis March** (Convex Hull)
-3. **Line Intersection Algorithms**
-4. **Closest Pair of Points**
+- **Hash Map:** Frequency counting, prefix sums, caching results.
+- **Hash Set:** Checking for duplicates, set operations.
+- **Two Sum Problem:** Using a hash map for efficient lookup.
 
-### Mathematical Algorithms
+### 7. **Tree**
 
-1. **Greatest Common Divisor (GCD)**
-2. **Least Common Multiple (LCM)**
-3. **Sieve of Eratosthenes** (Prime Number Generation)
-4. **Fast Exponentiation**
-5. **Euclidean Algorithm**
+- **Binary Tree:** Preorder, inorder, postorder traversal.
+- **Binary Search Tree (BST):** Insertion, deletion, searching.
+- **Tree Recursion:** Depth-first search, path sum problems.
+- **Segment Tree:** Range queries and updates.
+- **Fenwick Tree (Binary Indexed Tree):** Efficient range sum queries.
 
-### Miscellaneous
+### 8. **Graph**
 
-1. **Backtracking** (e.g., N-Queens Problem, Sudoku Solver)
-2. **Bit Manipulation**
-3. **Greedy Algorithms** (e.g., Activity Selection, Huffman Coding)
-4. **Divide and Conquer** (e.g., Merge Sort, Quick Sort)
-5. **Branch and Bound**
+- **Depth-First Search (DFS):** Traversing deep into a graph/tree.
+- **Breadth-First Search (BFS):** Shortest path in unweighted graphs.
+- **Dijkstra’s Algorithm:** Shortest path in weighted graphs.
+- **Union-Find:** Detecting cycles, connected components.
+- **Topological Sort:** Ordering of nodes in directed acyclic graphs.
 
-### Practice Platforms
+### 9. **Dynamic Programming (DP)**
 
-1. **LeetCode**
-2. **HackerRank**
-3. **CodeSignal**
-4. **CodeChef**
-5. **GeeksforGeeks**
-6. **TopCoder**
+- **Memoization:** Top-down approach to avoid recomputation.
+- **Tabulation:** Bottom-up approach to build up solutions.
+- **Knapsack Problem:** Subset sum, 0/1 knapsack, bounded knapsack.
+- **Longest Common Subsequence (LCS):** String similarity, alignment.
+- **Fibonacci Sequence:** Classical DP example.
 
-### Additional Concepts
+### 10. **Backtracking**
 
-1. **Big O Notation**
-2. **Amortized Analysis**
-3. **P vs NP Problem**
-4. **Recursion and Iteration**
-5. **Memoization and Tabulation**
+- **Permutation and Combination:** Generating all possible subsets or arrangements.
+- **N-Queens Problem:** Placing queens on a chessboard without conflicts.
+- **Sudoku Solver:** Filling in a Sudoku grid using constraints.
+
+### 11. **Greedy**
+
+- **Interval Scheduling:** Activity selection, meeting rooms.
+- **Huffman Encoding:** Optimal prefix-free codes.
+- **Coin Change:** Making change with the fewest coins.
+- **Fractional Knapsack:** Maximizing value in a knapsack.
+
+### 12. **Bit Manipulation**
+
+- **XOR Operations:** Finding the single non-duplicate number.
+- **Bitwise AND/OR:** Efficient operations on integers.
+- **Shifting Operations:** Multiplication, division by powers of two.
+- **Counting Bits:** Counting the number of 1’s in binary representation.
+
+### 13. **Heap/Priority Queue**
+
+- **Min-Heap/Max-Heap:** Efficiently retrieve minimum/maximum element.
+- **Heap Sort:** Sorting elements using heap.
+- **Median Finder:** Finding the median in a data stream.
+
+### 14. **Matrix**
+
+- **Matrix Traversal:** Spiral order, diagonal order, flood fill.
+- **Dynamic Programming on Grids:** Minimum path sum, unique paths.
+- **Matrix Exponentiation:** Efficient power of matrices.
+
+### 15. **Trie**
+
+- **Prefix Matching:** Searching for words starting with a given prefix.
+- **Word Search:** Searching for words in a grid.
+- **Autocomplete:** Suggesting completions based on input prefix.
+
+### 16. **Divide and Conquer**
+
+- **Merge Sort:** Sorting using divide and conquer.
+- **Quick Sort:** Efficient sorting with partitioning.
+- **Median of Two Sorted Arrays:** Finding the median efficiently.
+
+### 17. **Segment Tree/Fenwick Tree**
+
+- **Range Queries:** Efficiently compute range sums, minimums, maximums.
+- **Point Updates:** Efficiently update elements in a range.
+
+
+
+
+# References

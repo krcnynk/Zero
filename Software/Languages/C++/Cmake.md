@@ -2,7 +2,12 @@ Status: **Editing**
 
 Tags: [[C++]]
 
-# Cmake
+# cmake
+
+The **debug configuration** is designed to help you debug your program, and is generally the one you will use when writing your programs. This configuration turns off all optimizations, and includes debugging information, which makes your programs larger and slower, but much easier to debug. The debug configuration is usually  selected as the active configuration by default. We’ll talk more about debugging techniques in a later lesson.
+
+The **release configuration** is designed to be used when releasing your program to the public. This version is typically optimized for size and performance, and doesn’t contain the extra debugging information. Because the release configuration includes all optimizations, this mode is also useful for testing the performance of your code (which we’ll show you how to do later in the tutorial series).
+
 
 **Global Flags:**
 

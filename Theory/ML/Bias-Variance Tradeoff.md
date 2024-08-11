@@ -12,7 +12,7 @@ Plagues supervised learning, stops algorithms from generalizing beyond their tra
 	- Over-regularization
 
 - The variance is an error from sensitivity to small fluctuations in training set. (overfitting)
-	- [[Feature selection]]
+	- Feature selection 
 	- Regularization
 	- Cross-validation
 	- Ensemble methods
