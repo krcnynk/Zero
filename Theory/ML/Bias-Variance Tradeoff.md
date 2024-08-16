@@ -6,13 +6,13 @@ Tags: [[Machine Learning]]
 
 Plagues supervised learning, stops algorithms from generalizing beyond their training set.
 
-- The bias is an error from wrong assumptions. Features -> target outputs are missed (underfitting)
+- The bias is an error from wrong assumptions. Features -> target outputs are missed (underfitting, high variance high bias)
 	- Model not complex enough
 	- Training data too small, has insufficient or poor features
 	- Model and data incompatible (linear vs non-linear)
 	- Over-regularization
 
-- The variance is an error from sensitivity to small fluctuations in training set. (overfitting)
+- The variance is an error from sensitivity to small fluctuations in training set. (overfitting, high variance)
 	- Feature selection 
 	- Regularization
 	- Cross-validation

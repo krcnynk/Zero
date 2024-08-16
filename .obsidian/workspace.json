@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/ML/weight decay.md",
+                "file": "Theory/ML/multilayer perceptron.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/ML/weight decay.md",
+                "file": "Theory/ML/multilayer perceptron.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/ML/weight decay.md",
+                "file": "Theory/ML/multilayer perceptron.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/ML/weight decay.md"
+                "file": "Theory/ML/multilayer perceptron.md"
               }
             }
           }
@@ -149,19 +149,25 @@
   },
   "active": "b0d7da8073905baa",
   "lastOpenFiles": [
-    "Theory/ML/Linear Regression.md",
+    "mlp.svg",
+    "Theory/ML/cross-entropy loss.md",
+    "Theory/ML/multilayer perceptron.md",
+    "Theory/ML/cross-validation.md",
+    "Theory/ML/softmax-regression.md",
+    "Theory/ML/Machine Learning.md",
     "Theory/ML/weight decay.md",
+    "Theory/ML/log-likelihood.md",
+    "Software/Languages/C++/static.md",
+    "Theory/ML/bias-variance tradeoff.md",
+    "Theory/ML/Curse of Dimensionality.md",
+    "Theory/ML/Deep Learning.md",
+    "Theory/ML/Linear Regression.md",
     "Theory/ML/Gradient Descent.md",
     "Theory/ML/Forward Propagation.md",
     "Theory/ML/Feature selection.md",
-    "Theory/ML/cross-validation.md",
-    "Theory/ML/bias-variance tradeoff.md",
-    "Theory/ML/Machine Learning.md",
     "z_images/Pasted image 20240815150605.png",
     "z_images/Pasted image 20240815150518.png",
     "z_images/Pasted image 20240815150914.png",
-    "Theory/ML/Curse of Dimensionality.md",
-    "Theory/ML/Deep Learning.md",
     "Software/Languages/C++/call stack.md",
     "Theory/ML/Topics in ML.md",
     "Theory/ML/Recommendation.md",
@@ -172,12 +178,6 @@
     "2024-08-15.md",
     "Software/Languages/C++/expression templates.md",
     "Software/Languages/C++/pointers.md",
-    "Software/Languages/C/C.md",
-    "Software/Languages/C++/function pointer.md",
-    "Software/Languages/C++/initialization.md",
-    "Software/Languages/C++/inheritance.md",
-    "Software/Languages/C++/classes.md",
-    "Software/Languages/C++/inline.md",
     "Theory/Statistics/Probability Cheatsheet.pdf",
     "Projects",
     "z_images/vi-vim-cheat-sheet.gif",
