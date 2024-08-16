@@ -10,7 +10,10 @@ The `inline` keyword is used to suggest to the compiler that the function should
 
 **Header Files**: When defining functions in header files, especially template functions, they should be `inline` to prevent multiple definition errors during linking. This allows the function definitions to be included in multiple translation units without causing linkage issues.
 
-**Notes**
-- **Compiler Discretion**: The `inline` keyword is a suggestion to the compiler; it may ignore it and not inline the function.
-- **Code Size**: Excessive use of `inline` can lead to code bloat, increasing the binary size and potentially causing cache inefficiencies.
+- Function definition in header
+- Header included in multiple translational units
+- Linktime it will pick one and ignore others
+- Otherwise each .cpp file that includes that header will compile the function and put a symbol for it in the generated object file
+
+function's _definition_ can appear in multiple different TUs and then the linker will just pick one of them and throw away the rest because you promised that the definition will be the same everywhere
 # References

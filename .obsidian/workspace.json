@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Languages/C++/Copy Constructor and assignment, Move Constructor and assignment.md",
+                "file": "Theory/ML/weight decay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Languages/C++/Copy Constructor and assignment, Move Constructor and assignment.md",
+                "file": "Theory/ML/weight decay.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Languages/C++/Copy Constructor and assignment, Move Constructor and assignment.md",
+                "file": "Theory/ML/weight decay.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Languages/C++/Copy Constructor and assignment, Move Constructor and assignment.md"
+                "file": "Theory/ML/weight decay.md"
               }
             }
           }
@@ -149,42 +149,45 @@
   },
   "active": "b0d7da8073905baa",
   "lastOpenFiles": [
-    "Software/Languages/C++/Untitled.md",
-    "Software/Languages/C++/Copy Constructor and assignment, Move Constructor and assignment.md",
-    "Software/Languages/C++/gdb.md",
-    "Software/Languages/Python/pdb.md",
-    "Software/Languages/Python/generator.md",
-    "Theory/Computer/Computer Science/Algorithms.md",
-    "Software/Languages/C++/C++.md",
-    "Theory/Computer/Computer Science/Fixed Point Arithmetic.md",
-    "Theory/Computer/Computer Science/CS Unclassified.md",
-    "Theory/Computer/Computer Science/Floating Point Arithmetic.md",
-    "Theory/Computer/Computer Science/Programming Languages.md",
-    "Theory/Computer/Computer Science/Memory Allocation.md",
-    "Theory/Computer/Computer Science/Breadth-First Search.md",
+    "Theory/ML/Linear Regression.md",
+    "Theory/ML/weight decay.md",
+    "Theory/ML/Gradient Descent.md",
+    "Theory/ML/Forward Propagation.md",
+    "Theory/ML/Feature selection.md",
+    "Theory/ML/cross-validation.md",
+    "Theory/ML/bias-variance tradeoff.md",
+    "Theory/ML/Machine Learning.md",
+    "z_images/Pasted image 20240815150605.png",
+    "z_images/Pasted image 20240815150518.png",
+    "z_images/Pasted image 20240815150914.png",
+    "Theory/ML/Curse of Dimensionality.md",
+    "Theory/ML/Deep Learning.md",
+    "Software/Languages/C++/call stack.md",
     "Theory/ML/Topics in ML.md",
     "Theory/ML/Recommendation.md",
-    "Theory/Statistics/Probability Cheatsheet.pdf",
-    "Software/Languages/C++/static.md",
+    "Software/LeetCode/Two Sum.md",
+    "Software/LeetCode/Number of Islands.md",
+    "Software/LeetCode/Add Two Numbers.md",
+    "Software/LeetCode/Magic Squares In Grid.md",
+    "2024-08-15.md",
+    "Software/Languages/C++/expression templates.md",
+    "Software/Languages/C++/pointers.md",
+    "Software/Languages/C/C.md",
+    "Software/Languages/C++/function pointer.md",
+    "Software/Languages/C++/initialization.md",
+    "Software/Languages/C++/inheritance.md",
+    "Software/Languages/C++/classes.md",
     "Software/Languages/C++/inline.md",
-    "Software/Languages/C++/Call Stack.md",
-    "Software/Languages/C++/Classes.md",
-    "Software/Languages/C++/Inheritance.md",
-    "Software/Languages/C++/Memory, References and Pointers.md",
-    "Software/Languages/C++/mutable.md",
-    "Software/Languages/C++/scope.md",
-    "Software/Languages/C++/Ternary Operator.md",
-    "Software/Languages/C++/Expression Templates.md",
-    "Theory/ML/Deep Learning.md",
+    "Theory/Statistics/Probability Cheatsheet.pdf",
     "Projects",
-    "z_fluff/vi-vim-cheat-sheet.gif",
+    "z_images/vi-vim-cheat-sheet.gif",
     "Templates",
     "Pasted image 20240801232612.png",
-    "z_fluff/round-26.webp",
+    "z_images/round-26.webp",
     "z_fluff/python-list-tuple-set-array-dict-1.png",
-    "z_fluff/obamna.gif",
-    "z_fluff/floating_point_window.svg",
-    "z_fluff/imageMSE.png",
+    "z_images/obamna.gif",
+    "z_images/floating_point_window.svg",
+    "z_images/imageMSE.png",
     "Theory/Computer",
     "Software/Languages",
     "Theory/Computer/Networking",
@@ -193,7 +196,6 @@
     "Software/LeetCode",
     "Software/Languages/C",
     "Rough Ideas/Statistics/Untitled.canvas",
-    "Untitled.canvas",
-    "0545fd392b53b64e72ce258c5c79c717788e9e10.svg"
+    "Untitled.canvas"
   ]
 }

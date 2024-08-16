@@ -14,7 +14,7 @@ class MyClass:
         print(f"The value is {self.value}")  # Method
 ```
 
-The reason we need self. foo.meth(arg) == C.meth(foo, arg) 
+The reason we need `self.` is foo.meth(arg) == C.meth(foo, arg) 
 #### Magic Methods
 ``` Python
 class MyClass:

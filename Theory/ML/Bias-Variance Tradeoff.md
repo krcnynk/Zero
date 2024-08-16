@@ -1,7 +1,8 @@
 Status: **Editing**
 
 Tags: [[Machine Learning]]
-# Bias-Variance Tradeoff
+# bias-variance tradeoff
+![[../../z_images/Pasted image 20240815150605.png]]
 
 Plagues supervised learning, stops algorithms from generalizing beyond their training set.
 

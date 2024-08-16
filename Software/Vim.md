@@ -4,7 +4,7 @@ Tags: [[Software]]
 
 # Vim
 
-![[../z_fluff/vi-vim-cheat-sheet.gif]]
+![[../z_images/vi-vim-cheat-sheet.gif]]
 
 - **Open a file**: `vim filename`
 - **Open Vim without a file**: `vim`

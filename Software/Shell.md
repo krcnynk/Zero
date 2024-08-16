@@ -6,6 +6,8 @@ Tags: [[Software]]
 
 `mkdir -p ~/.config/nvim/ && cd $_` $_ is the last argument given to previous command
 
+history | grep
+
 
 
 # References

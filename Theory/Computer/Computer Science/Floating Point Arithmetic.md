@@ -10,7 +10,7 @@ sign1-exponent8-mantissa32
 
 In the window [2048,4096] the 8388608 offset precision $\frac{4096-2048}{8388608}=0.0002$
 
-![[../../../z_fluff/floating_point_window.svg]]
+![[../../../z_images/floating_point_window.svg]]
 https://fabiensanglard.net/floating_point_visually_explained/ very good source
 
 

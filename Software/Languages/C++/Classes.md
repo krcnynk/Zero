@@ -2,7 +2,8 @@ Status: **Editing**
 
 Tags:[[C++]]
 
-# Classes
+# classes
+
 **Class Members**
 ```cpp
 Monster Bonker;

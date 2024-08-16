@@ -2,10 +2,11 @@ Status: **Editing**
 
 Tags:[[C++]]
 
-# Inheritance
-**Inherited Constructor**
+# inheritance
+
+
 ```cpp
-class Goblin : public Monster {
+class Goblin : public Monster, public A {
 public:
   Goblin() : Monster{}{ // all inherited constructors are called already
   // or you could do this Monster{}
@@ -13,25 +14,18 @@ public:
   }
 };
 ```
+Actor -> Rock
+Actor -> Monster -> Goblin
+Define render() in Actor
 
-```cpp
-class Goblin {
-public:
-  void Render(){} // HERE DUPLICATE
-  void Move(){}
-  void Attack(){}
-  void DropLoot(){}
-  void Enrage(){}
-};
-```
-
-```cpp
-class Rock {
-public:
-  void Render(){} // HERE DUPLICATE
-};
-```
-Make an Actor class (base,parent class) and create Render() there, Rock and Goblin inherits from Actor
+Non-virtual
+- If Goblin defines render(), when render() is called, it will override the parents.
+- If Goblin is casted to another class, corresponding class function will be called.
+Virtual
+- Actor render a virtual function (function can be overriden in derived)
+- Monster render virtual override (override is for compiler safety, redundant)
+- Goblin render virtual override
+- Regardless of type of pointer Goblin render will be called for Goblin object
 
 Public is accessible everywhere, inherited as Public
 Protected is accessible in class and derived classes, inherited as Protected
